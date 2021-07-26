@@ -5,7 +5,7 @@ I'm collecting Beat Saber Mods for my daughter, Koharu, as soon as possible afte
 Some mods have been modified or reworked for newer versions as needed.
 
 Here's an important announcement.
-* All mods included in this pack are not official. Once BeatMod or ModAssistance starts to handle these releases, I recommend you use them instead of this pack.
+* All mods included in this pack are not official. Once BeatMods(https://beatmods.com/#/mods) or ModAssistance(https://github.com/Assistant/ModAssistant/releases) starts to handle these releases, I recommend you use them instead of this pack.
 * None of them have been fully tested yet.
 * There is no warranty. Use of this pack is at your own risk.
 
