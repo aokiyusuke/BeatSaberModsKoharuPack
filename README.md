@@ -14,37 +14,38 @@ I would appreciate it if you would subscribe to my daughter's YouTube channel (h
 # How to install
 
 1. Backup your Beat Saber directory
-2. Update Beat Saber
-3. Unzip the contents of the release zip to your beat saver directory.
-4. execute IPA.EXE
-5. run Beat Saber
+2. Update Beat Saber and run once
+3. make sure Beat Saber and SteamVR finished
+4. Unzip the contents of the release zip to your beat saver directory.
+5. execute IPA.EXE
+6. run Beat Saber. OpenVR will show dialog box at first time in PC screen.
 
 # Contents
 
 * Beat Saber IPA (BSIPA): 4.2.0 (from https://github.com/bsmg/BeatSaber-IPA-Reloaded/releases)
-* BeatSaberMarkupLanguage (BeatSaberMarkupLanguage): 1.5.3 (from https://github.com/monkeymanboy/BeatSaberMarkupLanguage)
+* BeatSaberMarkupLanguage (BeatSaberMarkupLanguage): 1.5.4 (from https://github.com/monkeymanboy/BeatSaberMarkupLanguage)
 * DynamicOpenVR (DynamicOpenVR): 0.4.0 (from https://github.com/nicoco007/DynamicOpenVR/releases)
 * DynamicOpenVR.BeatSaber (DynamicOpenVR.BeatSaber): 0.4.0 (from https://github.com/nicoco007/DynamicOpenVR/releases)
-* SiraUtil (SiraUtil): 2.5.6 (from https://github.com/Auros/SiraUtil/releases)
+* SiraUtil (SiraUtil): 2.5.7 (from https://github.com/Auros/SiraUtil/releases)
 * INI Parser (Ini Parser): 2.5.7 (from https://beatmods.com/#/mods)
-* BS_Utils (BS Utils): 1.10.0 (from https://beatmods.com/#/mods)
-* websocket-sharp (websocket-sharp): 1.0.4 (from https://beatmods.com/#/mods)
-* ScoreSaberSharp (ScoreSaberSharp): 0.1.0 (from https://beatmods.com/#/mods)
-* BeatSaberPlaylistsLib (BeatSaberPlaylistsLib): 1.4.0 (from https://github.com/Zingabopp/BeatSaberPlaylistsLib/releases)
-* HttpSiraStatus (HttpSiraStatus): 5.0.0 (from https://github.com/denpadokei/beatsaber-http-status/releases)
-* Custom Avatars (CustomAvatar): 5.2.7+dev (from https://github.com/aokiyusuke/BeatSaberCustomAvatars forked from https://github.com/nicoco007/BeatSaberCustomAvatars)
-* Camera2 (Camera2): 0.5.3 (from https://github.com/aokiyusuke/CS_BeatSaber_Camera2 forked from https://github.com/kinsi55/CS_BeatSaber_Camera2)
-* HttpStatusExtention (HttpStatusExtention): 2.0.0 (from https://github.com/denpadokei/HttpStatusExtention/releases)
-* SongCore (SongCore): 3.5.0 (from https://github.com/Kylemc1413/SongCore)
-* HitScoreVisualizer (HitScoreVisualizer): 3.1.1 (from https://github.com/ErisApps/HitScoreVisualizer/releases)
-* Enhancements (Enhancements): 3.0.10 (from https://github.com/Auros/Enhancements/releases)
-* BeatSaverVoting (BeatSaverVoting): 2.1.3 (from https://github.com/Top-Cat/BeatSaverVoting)
+* BS_Utils (BS Utils): 1.11.0 (from https://beatmods.com/#/mods)
 * BeatSaverSharp (BeatSaverSharp): 2.0.1 (from https://github.com/lolPants/BeatSaverSharp/releases)
-* SongDataCore (SongDataCore): 1.3.8 (from https://github.com/halsafar/BeatSaberSongDataCore/releases)
-* DataPuller (DataPuller): 2.0.5 (from https://github.com/kOFReadie/BSDataPuller/releases)
+* ScoreSaberSharp (ScoreSaberSharp): 0.1.0 (from https://beatmods.com/#/mods)
+* websocket-sharp (websocket-sharp): 1.0.4 (from https://beatmods.com/#/mods)
 * CustomJSONData (CustomJSONData): 2.0.2 (from https://github.com/Aeroluna/CustomJSONData/releases)
+* BeatSaberPlaylistsLib (BeatSaberPlaylistsLib): 1.4.0 (from https://github.com/Zingabopp/BeatSaberPlaylistsLib/releases)
+* Camera2 (Camera2): 0.5.3 (forked from https://github.com/kinsi55/CS_BeatSaber_Camera2)
+* Custom Avatars (CustomAvatar): 5.2.7 (from https://github.com/nicoco007/BeatSaberCustomAvatars)
+* HttpSiraStatus (HttpSiraStatus): 5.0.0 (from https://github.com/denpadokei/beatsaber-http-status/releases)
+* HttpStatusExtention (HttpStatusExtention): 2.0.0 (from https://github.com/denpadokei/HttpStatusExtention/releases)
+* HitScoreVisualizer (HitScoreVisualizer): 3.1.1 (from https://github.com/ErisApps/HitScoreVisualizer/releases)
 * MappingExtensions (MappingExtensions): 1.5.2 (from https://beatmods.com/#/mods)
-* ScorePercentage (ScorePercentage): 1.4.4 (from https://github.com/Idlebawb/ScorePercentage/releases)
-* PlaylistManager (PlaylistManager): 1.2.0 (from https://github.com/rithik-b/PlaylistManager/releases)
 * DataRecorder (DataRecorder): 0.5.3 (from https://github.com/rynan4818/DataRecorder/releases)
-* ScoreSaber (ScoreSaber): 3.1.1 (from https://beatmods.com/#/mods)
+* PlaylistManager (PlaylistManager): 1.2.0 (from https://github.com/rithik-b/PlaylistManager/releases)
+* ScoreSaber (ScoreSaber): 3.1.8 (from https://beatmods.com/#/mods)
+* Enhancements (Enhancements): 3.0.10 (from https://github.com/Auros/Enhancements/releases)
+* BeatSaverVoting (BeatSaverVoting): 2.1.5 (from https://github.com/Top-Cat/BeatSaverVoting)
+* SongCore (SongCore): 3.5.0 (from https://github.com/Kylemc1413/SongCore)
+* SongDataCore (SongDataCore): 1.3.8 (from https://github.com/halsafar/BeatSaberSongDataCore/releases)
+* ScorePercentage (ScorePercentage): 1.4.4 (from https://github.com/Idlebawb/ScorePercentage/releases)
+* BeatSaver Downloader (BeatSaverDownloader): 5.6.1 (from https://beatmods.com/#/mods)
