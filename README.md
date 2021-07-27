@@ -15,10 +15,10 @@ I would appreciate it if you would subscribe to my daughter's YouTube channel (h
 
 1. Backup your Beat Saber directory
 2. Update Beat Saber and run once
-3. make sure Beat Saber and SteamVR finished
+3. Make sure Beat Saber and SteamVR finished
 4. Unzip the contents of the release zip to your beat saver directory.
-5. execute IPA.EXE
-6. run Beat Saber. OpenVR will show dialog box at first time in PC screen.
+5. Execute IPA.EXE once
+6. Run Beat Saber. OpenVR will show dialog box at first time in PC screen.
 
 # Contents
 
