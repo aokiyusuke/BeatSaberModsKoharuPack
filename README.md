@@ -32,7 +32,7 @@ I would appreciate it if you would subscribe to my daughter's YouTube channel (h
 * BeatSaverSharp (BeatSaverSharp): 3.0.2 (from https://github.com/lolPants/BeatSaverSharp/releases)
 * ScoreSaberSharp (ScoreSaberSharp): 0.1.0 (from https://beatmods.com/#/mods)
 * websocket-sharp (websocket-sharp): 1.0.4 (from https://beatmods.com/#/mods)
-* CustomJSONData (CustomJSONData): 2.0.5 (from https://github.com/Aeroluna/CustomJSONData/releases)
+* CustomJSONData (CustomJSONData): 2.0.5 (from https://github.com/Aeroluna/CustomJSONData/releases) ★
 * BeatSaberPlaylistsLib (BeatSaberPlaylistsLib): 1.4.1 (from https://github.com/Zingabopp/BeatSaberPlaylistsLib/releases)
 * Camera2 (Camera2): 0.6.0 (forked from https://github.com/kinsi55/CS_BeatSaber_Camera2)
 * Custom Avatars (CustomAvatar): 5.2.8 (from https://github.com/nicoco007/BeatSaberCustomAvatars)
@@ -41,12 +41,12 @@ I would appreciate it if you would subscribe to my daughter's YouTube channel (h
 * HitScoreVisualizer (HitScoreVisualizer): 3.1.1 (from https://github.com/ErisApps/HitScoreVisualizer/releases)
 * MappingExtensions (MappingExtensions): 1.6.0 (from https://beatmods.com/#/mods)
 * DataRecorder (DataRecorder): 0.5.4 (from https://github.com/rynan4818/DataRecorder/releases)
-* PlaylistManager (PlaylistManager): 1.4.0 (from https://github.com/rithik-b/PlaylistManager/releases)
+* PlaylistManager (PlaylistManager): 1.4.0 (from https://github.com/rithik-b/PlaylistManager/releases) ★
 * ScoreSaber (ScoreSaber): 3.1.9 (from https://beatmods.com/#/mods)
-* Enhancements (Enhancements): 3.0.10 (from https://github.com/Auros/Enhancements/releases)
-* BeatSaverVoting (BeatSaverVoting): 2.3.1 (from https://github.com/Top-Cat/BeatSaverVoting)
-* SongCore (SongCore): 3.7.0 (from https://github.com/Kylemc1413/SongCore)
+* Enhancements (Enhancements): 3.0.11 (from https://github.com/Auros/Enhancements/releases)
+* BeatSaverVoting (BeatSaverVoting): 2.3.2 (from https://github.com/Top-Cat/BeatSaverVoting)
+* SongCore (SongCore): 3.7.1 (from https://github.com/Kylemc1413/SongCore)
 * SongDataCore (SongDataCore): 1.4.3 (from https://github.com/halsafar/BeatSaberSongDataCore/releases)
-* ScorePercentage (ScorePercentage): 1.4.4 (from https://github.com/Idlebawb/ScorePercentage/releases)
+* ScorePercentage (ScorePercentage): 1.4.4 (from https://github.com/Idlebawb/ScorePercentage/releases) ★
 * BeatSaver Downloader (BeatSaverDownloader): 5.7.0 (from https://beatmods.com/#/mods)
 * Saber Factory (SaberFactory): 2.3.6 (from https://github.com/aokiyusuke/SaberFactory/releases)
