@@ -50,3 +50,4 @@ I would appreciate it if you would subscribe to my daughter's YouTube channel (h
 * ScorePercentage: 1.4.4 (from https://github.com/Idlebawb/ScorePercentage/releases) ★
 * BeatSaver Downloader: 5.7.2 (from https://beatmods.com/#/mods)
 * Saber Factory: 2.3.6 (from https://github.com/aokiyusuke/SaberFactory/releases)
+* HitSoundChanger: 1.4.0
