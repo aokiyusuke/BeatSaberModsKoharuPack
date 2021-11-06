@@ -1,5 +1,5 @@
 # BeatSaberModsKoharuPack
-This pack contains releases of various Beat Saber Mods.
+This pack contains releases of various Beat Saber Mods for PC/Steam.
 
 I'm collecting Beat Saber Mods for my daughter, Koharu, as soon as possible after new versions are released.
 Some mods have been modified or reworked for newer versions as needed.
@@ -48,7 +48,7 @@ I would appreciate it if you would subscribe to my daughter's YouTube channel (h
 * SongDataCore: 1.4.5 (from https://github.com/halsafar/BeatSaberSongDataCore/releases)
 * ScorePercentage: 1.4.7 (from https://github.com/Idlebawb/ScorePercentage/releases) 
 * BeatSaver Downloader: 5.7.2 (from https://beatmods.com/#/mods)
-* Saber Factory: 2.3.7 (from https://github.com/ToniMacaroni/SaberFactory/releases)
+* Saber Factory: 2.3.9 (from https://github.com/ToniMacaroni/SaberFactory/releases)
 * Song Browser: 6.3.2 (from https://github.com/halsafar/BeatSaberSongBrowser/releases)
 * Heck: 1.3.0 (from https://github.com/Aeroluna/Heck/releases)
 * Croma: 2.5.4 (from https://github.com/Aeroluna/Chroma/releases)
@@ -58,4 +58,6 @@ I would appreciate it if you would subscribe to my daughter's YouTube channel (h
 * Custom Sabers: 4.6.11
 * Heck: 1.3.0
 * Chroma: 2.5.4
+* BadCutType: 1.2.0
+* BeatFlare: 0.3.0
 
