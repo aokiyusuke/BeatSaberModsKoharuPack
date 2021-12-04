@@ -32,9 +32,9 @@ I would appreciate it if you would subscribe to my daughter's YouTube channel (h
 * BeatSaverSharp: 3.0.2 (from https://github.com/lolPants/BeatSaverSharp/releases)
 * ScoreSaberSharp: 0.1.0 (from https://beatmods.com/#/mods)
 * websocket-sharp: 1.0.4 (from https://beatmods.com/#/mods)
-* CustomJSONData: 2.0.7 (from https://github.com/Aeroluna/CustomJSONData/releases)
+* CustomJSONData: 2.0.8 (from https://github.com/Aeroluna/CustomJSONData/releases)
 * BeatSaberPlaylistsLib: 1.5.0 (from https://github.com/Zingabopp/BeatSaberPlaylistsLib/releases)
-* Camera2: 0.6.2 (forked from https://github.com/kinsi55/CS_BeatSaber_Camera2)
+* Camera2: 0.6.4 (forked from https://github.com/kinsi55/CS_BeatSaber_Camera2)
 * Custom Avatars: 5.2.9 (from https://github.com/nicoco007/BeatSaberCustomAvatars/releases)
 * HttpSiraStatus: 5.2.2 (from https://github.com/denpadokei/beatsaber-http-status/releases)
 * HitScoreVisualizer: 3.2.0 (from https://github.com/ErisApps/HitScoreVisualizer/releases)
@@ -47,17 +47,16 @@ I would appreciate it if you would subscribe to my daughter's YouTube channel (h
 * SongCore: 3.8.0 (from https://github.com/Kylemc1413/SongCore)
 * SongDataCore: 1.4.5 (from https://github.com/halsafar/BeatSaberSongDataCore/releases)
 * ScorePercentage: 1.4.7 (from https://github.com/Idlebawb/ScorePercentage/releases) 
-* BeatSaver Downloader: 5.7.2 (from https://beatmods.com/#/mods)
+* BeatSaver Downloader: 5.7.3 (from https://beatmods.com/#/mods)
 * Saber Factory: 2.3.9 (from https://github.com/ToniMacaroni/SaberFactory/releases)
 * Song Browser: 6.3.2 (from https://github.com/halsafar/BeatSaberSongBrowser/releases)
-* Heck: 1.3.0 (from https://github.com/Aeroluna/Heck/releases)
-* Croma: 2.5.4 (from https://github.com/Aeroluna/Chroma/releases)
-* NoodleExtensions: 1.4.4 (from https://github.com/Aeroluna/NoodleExtensions/releases)
+* Heck: 1.3.1 (from https://github.com/Aeroluna/Heck/releases)
+* Chroma: 2.5.7 (from https://github.com/Aeroluna/Chroma/releases)
+* NoodleExtensions: 1.4.6 (from https://github.com/Aeroluna/NoodleExtensions/releases)
 * BeatSaviorData: 2.1.8 (from https://github.com/Mystogan98/BeatSaviorData/releases)
 * HitSoundChanger: 1.4.0
 * Custom Sabers: 4.6.11
-* Heck: 1.3.0
-* Chroma: 2.5.4
 * BadCutType: 1.2.0
 * BeatFlare: 0.3.0
+* LookupID: 1.0.0
 
