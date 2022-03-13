@@ -19,6 +19,7 @@ I would appreciate it if you would subscribe to my daughter's YouTube channel (h
 4. Unzip the contents of the release zip to your beat saver directory.
 5. Execute IPA.EXE once
 6. Run Beat Saber. OpenVR will show dialog box at first time in PC screen.
+7. If MODs do not seem to work, check to see if `Old X.XX.X Plugins` backup folder exists and copy the contents of the backup to `Plugins` folder.
 
 # Contents
 
