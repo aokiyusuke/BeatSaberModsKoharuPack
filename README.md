@@ -5,6 +5,7 @@ I'm collecting Beat Saber Mods for my daughter, Koharu, as soon as possible afte
 Some mods have been modified or reworked for newer versions as needed.
 
 Here's an important announcement.
+* You must be aware that it is not safe to install DLLs obtained from internet directly, since they might have spyware or virus. If you are unsure about this, use BeatMods or ModAssistance.  The advantage of using the Koharu Pack is that multiple MODs can be installed at once and you can use them slightly before they are officially released.
 * All mods included in this pack are not official. Once BeatMods(https://beatmods.com/#/mods) or ModAssistance(https://github.com/Assistant/ModAssistant/releases) starts to handle these releases, I recommend you use them instead of this pack.
 * None of them have been fully tested yet.
 * There is no warranty. Use of this pack is at your own risk.
