@@ -1,7 +1,8 @@
 # BeatSaberModsKoharuPack
-This pack contains releases of various Beat Saber Mods for PC/Steam.
+This pack contains releases of various Beat Saber Mods for PC/Steam.  If you are looking for Quest Modding, this site does not apply to you.
 
 I'm collecting Beat Saber Mods for my daughter, Koharu, as soon as possible after new versions are released.
+Some MODs are collected by my daughter.
 Some mods have been modified or reworked for newer versions as needed.
 
 Here's an *important announcement*.
