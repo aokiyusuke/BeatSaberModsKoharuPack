@@ -3,7 +3,7 @@ I would like to inform you that this pack contains various Beat Saber Mods for P
 
 Now, I want to make _an important announcement_ as a programmer with over 30 years of experience. 
 
-* First and foremost, it is crucial to remind you that installing DLLs obtained from the internet directly can be unsafe since there are risks of spyware or virus. Therefore, if you are unsure about this, I suggest using BeatMods or ModAssistance instead. Nevertheless, using the Koharu Pack has its advantages, as multiple MODs can be installed at once and used slightly before they are officially released.
+* First and foremost, it is crucial to remind you that installing DLLs obtained from the internet directly can be unsafe since there are risks of spyware or virus. Therefore, if you are unsure about this, I suggest using BeatMods or ModAssistance and installing officially released MODs instead. Nevertheless, using the Koharu Pack has its advantages, as multiple MODs can be installed at once and used slightly before they are officially released.
 
 * Secondly, I want to emphasize that all mods included in this pack are not official, and I highly recommend switching to BeatMods (https://beatmods.com/#/mods) or ModAssistance (https://github.com/Assistant/ModAssistant/releases) once they start handling these releases.
 
