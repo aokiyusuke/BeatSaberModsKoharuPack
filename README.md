@@ -7,7 +7,7 @@ Now, I want to make _an important announcement_ as a programmer with over 30 yea
 
 * Secondly, I want to emphasize that all mods included in this pack are not official, and I highly recommend switching to BeatMods (https://beatmods.com/#/mods) or ModAssistance (https://github.com/Assistant/ModAssistant/releases) once they start handling these releases.
 
-* Thirdly, please note that none of the mods in this pack have been fully tested yet, so I cannot guarantee their performance.
+* Thirdly, please note that none of the mods in this pack have been fully tested yet, so I cannot guarantee their functionalities and performance.
 
 * Lastly, I must inform you that using this pack is at your own risk, and there is no warranty. Please keep this in mind before installing any mods from the Koharu Pack.
 
