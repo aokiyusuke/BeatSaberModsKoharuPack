@@ -1,18 +1,17 @@
 # BeatSaberModsKoharuPack
-This pack contains releases of various Beat Saber Mods for PC/Steam.  If you are looking for Quest Modding, this site does not apply to you.
+I would like to inform you that this pack contains various Beat Saber Mods for PC/Steam, which I collect for my daughter Koharu as soon as possible after new versions are released. However, please note that this site does not apply to you if you are looking for Quest Modding.
 
-I'm collecting Beat Saber Mods for my daughter, Koharu, as soon as possible after new versions are released.
-Some MODs are collected by my daughter.
-Some mods have been modified or reworked for newer versions as needed.
+Now, I want to make _an important announcement_ as a programmer with over 30 years of experience. 
 
-Here's an *important announcement*.
-* You must be aware that it is not safe to install DLLs obtained from internet directly, since there are risks to have spyware or virus. If you are unsure about this, use BeatMods or ModAssistance.  The advantage of using the Koharu Pack is that multiple MODs can be installed at once and you can use them slightly before they are officially released.
-* All mods included in this pack are not official. Once BeatMods(https://beatmods.com/#/mods) or ModAssistance(https://github.com/Assistant/ModAssistant/releases) starts to handle these releases, I recommend you use them instead of this pack.
-* None of them have been fully tested yet.
-* There is no warranty. Use of this pack is at your own risk.
+* First and foremost, it is crucial to remind you that installing DLLs obtained from the internet directly can be unsafe since there are risks of spyware or virus. Therefore, if you are unsure about this, I suggest using BeatMods or ModAssistance instead. Nevertheless, using the Koharu Pack has its advantages, as multiple MODs can be installed at once and used slightly before they are officially released.
 
-I would appreciate it if you would subscribe to my daughter's YouTube channel (https://www.youtube.com/channel/UCjiyZoL-4RWEeP4pB1uGaww).
+* Secondly, I want to emphasize that all mods included in this pack are not official, and I highly recommend switching to BeatMods (https://beatmods.com/#/mods) or ModAssistance (https://github.com/Assistant/ModAssistant/releases) once they start handling these releases.
 
+* Thirdly, please note that none of the mods in this pack have been fully tested yet, so I cannot guarantee their performance.
+
+* Lastly, I must inform you that using this pack is at your own risk, and there is no warranty. Please keep this in mind before installing any mods from the Koharu Pack.
+
+Before I conclude, I would like to kindly request you to subscribe to my daughter’s YouTube channel (https://www.youtube.com/channel/UCjiyZoL-4RWEeP4pB1uGaww). Your support will be highly appreciated.
 # How to install
 
 1. Backup your Beat Saber directory
